@@ -2,7 +2,6 @@ body{
   background-image: url(fondo.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  max-width: 100%;
   height: auto;
 }
 h1{
@@ -16,6 +15,11 @@ h2{
   font-family: verdana;
   font-size: 300%;
   text-align: center;
+}
+li{
+  color: red;
+  font-family: verdana;
+  font-size: 300%;
 }
 img{width: 9%
 }
